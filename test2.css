@@ -2,7 +2,7 @@
         height: 38px;
         background-repeat: repeat-y;
         background-image: url(https://zaymo-public.s3.us-west-1.amazonaws.com/digits_inter_medium.svg);
-        --count2: 23;
+        --count2: 6;
         --calculation: var(--count2) * -48px;
         background-position: left calc(var(--calculation)) !important;
     }
