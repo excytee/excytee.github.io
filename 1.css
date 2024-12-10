@@ -1,7 +1,8 @@
-        .fmrremsB {
-            display: none !important;
-        }
+.fmrremsB {
+        display: none !important
+}
 
-        .tisP {
-            display: table-header-group !important;
-        }
+.tisP {
+        display: table-header-group !important;
+        width: 100% !important;
+}
