@@ -3,7 +3,7 @@
 }
 
 .tisP {
-        display: table-header-group !important;
+        display: flex !important;
         width: 100% !important;
         max-height: 100% !important;
 }
