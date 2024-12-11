@@ -3,5 +3,5 @@
 }
 
 .interactive {
-        display: flex !important;
+        display: table-header-group !important;
 }
