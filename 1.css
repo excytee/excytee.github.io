@@ -4,4 +4,5 @@
 
 .exc-ia {
         display: flex !important;
+        justify-content: center;
 }
