@@ -3,6 +3,5 @@ display: none !important;
 }
 
 .exc-ia {
-display: block !important;
-width: 100%;
+display: flex !important;
 }
