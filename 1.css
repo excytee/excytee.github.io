@@ -3,7 +3,5 @@
 }
 
 .exc-ia {
-        display: flex !important;
-        justify-content: center;
-        width: 100%;
+        display: block !important;
 }
