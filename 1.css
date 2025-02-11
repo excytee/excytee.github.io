@@ -5,25 +5,3 @@ display: none !important;
 .exc-ia {
 display: flex !important;
 }
-
-input#exc-v-0-q-1:checked~.exc-v #exc-notif-0 {
-display: flex !important;
-}
-input#exc-v-1-q-1:checked~.exc-v #exc-notif-1 {
-display: flex !important;
-}
-input#exc-v-2-q-1:checked~.exc-v #exc-notif-2 {
-display: flex !important;
-}
-input#exc-v-3-q-1:checked~.exc-v #exc-notif-3 {
-display: flex !important;
-}
-input#exc-v-4-q-1:checked~.exc-v #exc-notif-4 {
-display: flex !important;
-}
-input#exc-v-5-q-1:checked~.exc-v #exc-notif-5 {
-display: flex !important;
-}
-input#exc-v-6-q-1:checked~.exc-v #exc-notif-6 {
-display: flex !important;
-}
