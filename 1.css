@@ -1,7 +1,7 @@
 .exc-fb {
-display: block !important;
+display: none !important;
 }
 
 .exc-ia {
-display: none !important;
+display: flex !important;
 }
